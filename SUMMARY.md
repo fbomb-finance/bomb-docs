@@ -1,5 +1,13 @@
 # Table of contents
 
 * [fBOMB Finance](README.md)
-* [The Token](the-token.md)
+
+## Token
+
+* [History](token/history.md)
+* [Tokenomics](token/the-token.md)
+
+## Arcade
+
+* [Untitled](arcade/untitled.md)
 
