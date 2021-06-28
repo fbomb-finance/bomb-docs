@@ -14,7 +14,7 @@ A few days after the launch, the community, unamused due to Bob's lack of intere
 
 ## Revival
 
-On 
+On May 25th 2021, the initial investors of fBOMB and developers gathered together with the goal of reviving the token and making it a relevant project, now with constant development and new leadership. Since then, a new website has been published along with a updated lottery. Developers are currently working on new features for the ecosystem and enhancing the community's participation through governance. 
 
 
 

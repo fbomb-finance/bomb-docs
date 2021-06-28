@@ -9,5 +9,5 @@
 
 ## Arcade
 
-* [Untitled](arcade/untitled.md)
+* [Lottery](arcade/untitled.md)
 
