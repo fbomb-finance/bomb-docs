@@ -1,5 +1,5 @@
 ---
-description: Documentation
+description: fBOMB Documentation
 ---
 
 # fBOMB Finance
