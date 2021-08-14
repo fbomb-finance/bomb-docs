@@ -2,12 +2,14 @@
 
 * [fBOMB Finance](README.md)
 
-## Token
+## Information
 
-* [History](token/history.md)
-* [Tokenomics](token/the-token.md)
+* [History](info/history.md)
+* [Contracts](info/contracts.md)
 
-## Arcade
+## Products
 
-* [Lottery](arcade/lottery.md)
-
+* [BOMB Token](products/bomb-token.md)
+* [Shrapnel Token](products/shrapnel-token.md)
+* [BombSwap](products/bombswap.md)
+* [Lottery](products/lottery.md)
