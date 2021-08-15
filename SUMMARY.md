@@ -16,6 +16,6 @@
 
 ## Links
 
-[Main Page](https://fbomb.finance)
-[Exchange](https://app.fbomb.finance)
-[Governance](https://vote.fbomb.finance)
+* [Main Page](https://fbomb.finance)
+* [Exchange](https://app.fbomb.finance)
+* [Governance](https://vote.fbomb.finance)
