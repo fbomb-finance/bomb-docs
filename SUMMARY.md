@@ -2,7 +2,7 @@
 
 * [fBOMB Finance](README.md)
 
-## Information
+## Info
 
 * [History](info/history.md)
 * [Contracts](info/contracts.md)
