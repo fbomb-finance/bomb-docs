@@ -16,5 +16,3 @@ A few days after the launch, the community, unamused due to Bob's lack of intere
 
 On May 25th 2021, the initial investors of fBOMB and developers gathered together with the goal of reviving the token and making it a relevant project, now with constant development and new leadership. Since then, a new website has been published, a updated lottery and the new decentralized exchange BombSwap, which was responsible for a great growth of BOMB liquidity. Developers are currently working on new features for the ecosystem and enhancing the community's participation through governance. Voting power for governance proposals will solely depend on the user's BOMB balance at a certain given point in time.
 
-
-
